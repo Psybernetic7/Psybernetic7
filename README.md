@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · MSc Computer Science
 
-Full-stack developer in Turku, Finland, building web applications and ML systems — often implementing the underlying algorithms from scratch rather than calling a library.
+Full-stack developer in Turku, Finland, building web applications and ML systems, often implementing the underlying algorithms from scratch.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Psybernetic7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-sen)
@@ -12,9 +12,9 @@ Full-stack developer in Turku, Finland, building web applications and ML systems
 
 ## About Me
 
-I build full-stack web applications and machine learning systems, from Next.js/TypeScript products to a decoder-only Transformer written from first principles in PyTorch. My work spans retrieval and RAG pipelines, real-time speech translation, and DevOps infrastructure on Kubernetes and AWS — and I tend to implement core algorithms directly (BM25, attention, HTTP/1.1 on raw TCP) to understand them properly.
+I build full-stack web applications and machine learning systems, from Next.js/TypeScript products to Transformer models written from first principles in PyTorch. My work spans retrieval and RAG pipelines, real-time speech translation, and DevOps infrastructure on Kubernetes and AWS. I tend to implement core algorithms directly to understand them properly.
 
-I hold an MSc in Computer Science from Åbo Akademi University, where my thesis surveyed large language models for code, and I have a background in research and data work at Åbo Akademi, Scale AI, and Groke Technologies. Currently open to full-stack, backend, and ML engineering roles as well as open-source collaborations. I have the right to work in Finland.
+I hold an MSc in Computer Science from Åbo Akademi University, where my thesis surveyed large language models for code generation, and I have a background in research and data work as well. Currently open to full-stack, backend, and ML engineering roles as well as open-source collaborations. 
 
 ---
 
@@ -36,7 +36,7 @@ I hold an MSc in Computer Science from Åbo Akademi University, where my thesis 
 
 [![](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,aws,git,vercel,linux)](https://skillicons.dev)
 
-Also: Streamlit, Recharts, Shadcn/ui, React Hook Form, Zod, sqlc, goose, sentence-transformers, faster-whisper, MarianMT, Docker Compose, Argo CD.
+Also: Streamlit, Shadcn/ui, React Hook Form, Zod, sqlc, goose, sentence-transformers, faster-whisper, Docker Compose, Argo CD.
 
 ---
 
@@ -86,8 +86,7 @@ A real-time speech translation web app that captures 16 kHz microphone audio in 
 ## Currently Learning
 
 - **HTTP from TCP** (Go) — implementing HTTP/1.1 from scratch on raw TCP sockets, bypassing `net/http`. Incremental state-machine request parsing is done; response writing, routing, and chunked encoding are in progress. [Repository](https://github.com/Psybernetic7/http-server)
-- *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau) and *System Design Interview* (Alex Xu)
-- Competitive programming on LeetCode and CodeChef; CTF challenges on OverTheWire and TryHackMe
+- *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau) and raytracing in C++.
 
 ---
 
