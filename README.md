@@ -85,7 +85,8 @@ A real-time speech translation web app that captures 16 kHz microphone audio in 
 ## Currently Learning
 
 - **HTTP from TCP** (Go) — implementing HTTP/1.1 from scratch on raw TCP sockets, bypassing `net/http`. Incremental state-machine request parsing is done; response writing, routing, and chunked encoding are in progress. [Repository](https://github.com/Psybernetic7/http-server)
-- *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau) and raytracing in C++.
+- *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau).
+- **Ray-tracing in C++** - [Repository](https://github.com/Psybernetic7/ray-tracer)
 
 ---
 
