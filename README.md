@@ -1,6 +1,6 @@
 # Jishnu Sen
 
-### Full-Stack Developer · MSc Computer Science
+### Programmer & Architect · MSc Computer Science
 
 Full-stack developer in Turku, Finland, building web applications and ML systems, often implementing the underlying algorithms from scratch.
 
