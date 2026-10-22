@@ -21,7 +21,7 @@ I hold an MSc in Computer Science from Åbo Akademi University, where my thesis 
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=python,go,ts,js,bash)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,go,ts,js,bash,cpp)](https://skillicons.dev)
 
 **Frontend**
 
